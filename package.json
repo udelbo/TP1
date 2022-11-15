@@ -1,7 +1,7 @@
 {
   "name": "tp1",
   "version": "1.0.0",
-  "description": "",
+  "description": "TP1 Curso web services node Ulises Del Bó",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js",
